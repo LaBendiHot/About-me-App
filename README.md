@@ -32,15 +32,15 @@ Especialidad: Tecnología en la Nube
 ## 🖼️ Capturas de pantalla
 
 ### Pantalla principal  
-![Pantalla principal](![image](https://github.com/user-attachments/assets/9bb6124b-14c3-4647-894a-9a560e130c3c)
+![Pantalla principal](https://github.com/LaBendiHot/About-me-App/blob/master/Screenshots/Captura%20de%20pantalla%202025-04-15%20162022.png)
 )
 
 ### Sección de habilidades  
-![Habilidades](![image](https://github.com/user-attachments/assets/1734f486-0b3e-4468-bbe3-a378aaf253b1)
+![Habilidades](https://github.com/LaBendiHot/About-me-App/blob/master/Screenshots/Captura%20de%20pantalla%202025-04-15%20162022.png)
 )
 
 ### Hobbies con chips  
-![Hobbies](![image](https://github.com/user-attachments/assets/f0d2cd31-f2c2-4383-bf4e-9740c8931edf)
+![Hobbies](https://github.com/LaBendiHot/About-me-App/blob/master/Screenshots/Captura%20de%20pantalla%202025-04-15%20162022.png)
 )
 
 ---
